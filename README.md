@@ -1,8 +1,8 @@
-###Welcome to
-#WeLikeBeer Official
+### Welcome to
+# WeLikeBeer Official
 
 
-##Join our Discord now!
+## Join our Discord now!
 <a id=Discord">https://discord.gg/sBSDyneR</>
 
 
