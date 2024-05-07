@@ -2,8 +2,7 @@
 # WeLikeBeer Official
 #  
 #  
-## Join our Discord now!
-<a href="[Discord](https://discord.gg/sBSDyneR)">Discord</a>
+## Join our [Discord](https://discord.gg/sBSDyneR) now!
 #  
 #  
 This is still in buildup!
